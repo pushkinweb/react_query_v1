@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Купить машину",
+      "completed": true
+    },
+    {
+      "title": "Купить квартиру",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "title": "Посадить дерево",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Отдохнуть",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Поработать :)",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "Задача 1",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Задача 2",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "Задача 3",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Задача 5",
+      "completed": false,
+      "id": 9
+    }
+  ]
+}
